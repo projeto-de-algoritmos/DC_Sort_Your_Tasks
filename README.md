@@ -2,7 +2,7 @@
 
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: GREED<br>
+**Conteúdo da Disciplina**: D&C<br>
 
 ## Alunos
 |Matrícula | Aluno |
