@@ -1,4 +1,4 @@
-# DC_Sort_Your_Tasks
+# DC_explanation
 
 
 **Número da Lista**: X<br>
@@ -11,14 +11,14 @@
 | 14/0065547  |  Roberto Martins da Nóbrega|
 
 ## Sobre 
-Sistema para ordenar suas tarefas de acordo com a prioridade escolhida.
+Explicação de forma simples com código em python utilizando-se de um notebook para descrever
+3 algoritmos que utilizam da tática de dividir e conquistar para cumprir suas tarefas.
 
 ## Screenshots
 
-## Instalação 
-**Linguagem**: JavaScript<br>
-**Framework**: React JS<br>
+## Instalação
 
+Linguagem: Python3
 
 Para rodar o projeto, você precisa seguir as seguintes instruções:
 
@@ -27,7 +27,9 @@ Para rodar o projeto, você precisa seguir as seguintes instruções:
 https://github.com/projeto-de-algoritmos/DC_Sort_Your_Tasks.git
 ```
 
-2. Entrar na pasta DC_Sort_Your_Tasks e instalar as dependências por meio de:
+2. Entrar na pasta DC_Sort_Your_Tasks.
+
+3. Executar o arquivo D&C.ipynb utilizando-se do jupyter notebook ou através do gooogle colab
 
 ```
 yarn install
