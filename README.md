@@ -24,19 +24,10 @@ Para rodar o projeto, você precisa seguir as seguintes instruções:
 
 1. Clonar o repositório
 ```
-https://github.com/projeto-de-algoritmos/DC_Sort_Your_Tasks.git
+https://github.com/projeto-de-algoritmos/DC_explanation.git
 ```
 
-2. Entrar na pasta DC_Sort_Your_Tasks.
+2. Entrar na pasta DC_explanation.
 
 3. Executar o arquivo D&C.ipynb utilizando-se do jupyter notebook ou através do gooogle colab
 
-```
-yarn install
-```
-
-3. Inicializar a aplicação
-
-```
-yarn start
-```
